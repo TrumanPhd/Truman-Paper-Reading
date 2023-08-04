@@ -1,7 +1,8 @@
 # Truman-Paper-Reading
 昊昊读论文的视频与参考的论文代码链接
-## Bilibili 主页
+## Bilibili 主页 
+## Youtube主页
 ## 视频和论文列表
-| 名称 index| 论文 paper | code(official/readable) |
+| 名称 index| 论文 paper | 代码code(official/readable) |
 | ------- | ------- | ------- |
 | RetNet   |  RetNet | |
