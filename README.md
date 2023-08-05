@@ -7,4 +7,4 @@
 | ------- | ------- | ------- | ------- | ------- |
 | RetNet   |   <a href="https://arxiv.org/abs/2307.08621">RetNet </a> | https://github.com/Jamie-Stirling/RetNet | https://www.bilibili.com/video/BV1K841127tC/ | https://www.bilibili.com/video/BV1tu4y1178G/ |
 
-[![Watch the video](https://i0.hdslb.com/bfs/archive/21b8044a99b5e909e4542bb07b3d549990b5cfc6.jpg@320w_200h_1c_!web-space-index-myvideo.avif)](https://www.bilibili.com/video/BV1K841127tC/)
+[![Watch the video](https://i2.hdslb.com/bfs/archive/b7cc9fa114d56d36c3cf0dd92cae2652a2b2d20b.jpg@320w_200h_1c_!web-space-index-myvideo.avif)](https://www.bilibili.com/video/BV1K841127tC/)
