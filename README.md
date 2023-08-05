@@ -5,4 +5,4 @@
 ## 视频和论文列表
 | 名称 index| 论文 paper | 代码code(official/readable) |
 | ------- | ------- | ------- |
-| RetNet   |  RetNet | |
+| RetNet   |   <a href="[https://space.bilibili.com/66821377/](https://arxiv.org/abs/2307.08621)">RetNet </a> | https://github.com/Jamie-Stirling/RetNet |
