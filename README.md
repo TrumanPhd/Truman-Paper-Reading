@@ -8,6 +8,7 @@
 
 ## 视频和论文 Table of the link for video, code and paper 
 直接点击表格中的图片或者链接就可以跳转到视频或代码论文库
+
 Please click the item in the table for the video or code/paper
 | 名称 index| 论文 paper | 代码code(official/readable) | 昊昊读论文paper reading | 昊昊读代码 coding sharing | 
 | ------- | ------- | ------- | ------- | ------- |
